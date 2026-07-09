@@ -40,6 +40,13 @@ const CONFIG = {
       teaser: "Hero, tres bloques de carta, reservas y preguntas frecuentes: la estructura que sirve para cualquier negocio local con web propia, no solo restaurantes.",
       url: "",
       ready: false
+    },
+    {
+      tag: "Escritos formales",
+      title: "Cómo redactar una reclamación a la administración que se lea de verdad",
+      teaser: "Estructura, tono y argumentos para que un escrito a un ayuntamiento, la Seguridad Social o cualquier organismo se tome en serio, sin tecnicismos ni perder fuerza.",
+      url: "",
+      ready: false
     }
   ]
 };
