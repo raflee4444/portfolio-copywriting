@@ -28,9 +28,9 @@ const CONFIG = {
       ready: false
     },
     {
-      tag: "Energía solar",
-      title: "Placas solares en Canarias: 7 preguntas antes de firmar",
-      teaser: "Dimensionado, salitre, subvenciones y garantías, escrito por alguien que ha instalado placas en Lanzarote con sus propias manos.",
+      tag: "Electricidad y mantenimiento",
+      title: "Instalaciones eléctricas: lo que aprendí en 14 años de mantenimiento industrial",
+      teaser: "Qué falla de verdad en una instalación eléctrica, qué mantenimiento es imprescindible y qué preguntar antes de que alguien te toque el cuadro de casa.",
       url: "",
       ready: false
     },
