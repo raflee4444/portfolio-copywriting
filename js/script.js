@@ -36,8 +36,8 @@ const CONFIG = {
     },
     {
       tag: "Copy web / negocio local",
-      title: "El Charco — cocina canaria en Arrecife",
-      teaser: "Web completa de un restaurante ficticio: hero, carta, reservas y preguntas frecuentes.",
+      title: "Web completa para un restaurante de barrio",
+      teaser: "Hero, tres bloques de carta, reservas y preguntas frecuentes: la estructura que sirve para cualquier negocio local con web propia, no solo restaurantes.",
       url: "",
       ready: false
     }

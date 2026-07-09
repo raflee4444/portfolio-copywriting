@@ -344,25 +344,15 @@ a { color: inherit; }
 
 .about-photo-wrap { text-align: center; }
 
-.photo-placeholder {
+.about-photo {
   width: 100%;
   aspect-ratio: 1;
+  object-fit: cover;
+  object-position: top center;
   border-radius: var(--radius);
-  background:
-    repeating-linear-gradient(135deg, var(--accent-soft) 0 12px, #fff 12px 24px);
   border: 1px solid var(--line);
-  color: var(--accent);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.photo-placeholder svg { width: 40%; height: 40%; opacity: .55; }
-
-.photo-caption {
-  font-size: .8rem;
-  color: var(--ink-soft);
-  font-style: italic;
-  margin: 12px 0 0;
+  box-shadow: var(--shadow);
+  display: block;
 }
 
 .credentials {
